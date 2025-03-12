@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: devops
-        image: devops-project-repo:latest
+        image: siddhumahi01/java-tomcat-mavan:1710692839
         ports:
         - containerPort: 80
